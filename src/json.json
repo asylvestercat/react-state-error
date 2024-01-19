@@ -1,0 +1,27 @@
+{
+  "wysiwygFileData": {
+    "type": "TextBlock",
+    "content": {
+      "bodyText": [
+        {
+          "type": "p",
+          "content": [
+            "Cats ",
+            "rule! ",
+            {
+              "type": "bold",
+              "text": [
+                "Howdy ",
+                {
+                  "type": "italics",
+                  "text": "Mouseketeers"
+                },
+                "!"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  }
+}
